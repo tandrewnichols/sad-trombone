@@ -1,0 +1,28 @@
+{
+  "name": "sad-trombone",
+  "version": "1.0.0",
+  "description": "Throw errors in style",
+  "main": "lib/sad-trombone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tandrewnichols/sad-trombone.git"
+  },
+  "keywords": [
+    "throw",
+    "error",
+    "trombone",
+    "rethrow"
+  ],
+  "author": "Andrew Nichols",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tandrewnichols/sad-trombone/issues"
+  },
+  "homepage": "https://github.com/tandrewnichols/sad-trombone#readme",
+  "dependencies": {
+    "trombone": "^1.0.0"
+  }
+}
