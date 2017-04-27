@@ -1,7 +1,7 @@
 {
   "name": "sad-trombone",
   "version": "1.0.0",
-  "description": "Throw errors in style",
+  "description": "Throw errors with sound effects",
   "main": "lib/sad-trombone.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
